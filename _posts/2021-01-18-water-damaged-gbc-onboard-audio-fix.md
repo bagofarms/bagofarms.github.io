@@ -2,7 +2,7 @@
 layout: post
 title:  "Water-damaged Game Boy Color: Fixing the Speaker Output"
 date:   2021-01-18 12:30:00 -0500
-categories: consoles gameboy repair
+tags: consoles gameboy repair
 ---
 
 In my [previous post]({% post_url 2021-01-15-water-damaged-gbc %}), I cleaned up the button contacts on a seemingly water-damaged Game Boy Color.  Everything seemed to be working except for the fact that there was no audio from the built-in speaker.  Well, today I figured that out.

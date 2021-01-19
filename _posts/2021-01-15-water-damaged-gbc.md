@@ -2,7 +2,7 @@
 layout: post
 title:  "Water-damaged Game Boy Color: Initial Inspection"
 date:   2021-01-16 20:20:00 -0500
-categories: consoles gameboy repair
+tags: consoles gameboy repair
 ---
 
 I recently received this Game Boy Color from one of my wife's coworkers.  She found it in a box of stuff from her childhood, and decided it would be fun to show to her daughter.  Unfortunately, the Game Boy did not work properly with any of the games she tried.  She knew that I am into classic game consoles and repairing electronics, so she gave it to me to see if I could fix it.
