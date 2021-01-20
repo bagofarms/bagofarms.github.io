@@ -51,15 +51,25 @@ This will inialize the Git repository and create all the folder structure and se
 gem "github-pages", "~> 209", group: :jekyll_plugins
 ```
 
-I'm using `209` as the version number here because that's what the Dependency Versions page tells me to use.  It's important to lock this version number in so that you are always using the version of `github-pages` that matches with the version of `jekyll` you're using.
+I'm using `209` as the version number here because that's what the [Dependency Versions page](https://pages.github.com/versions/) tells me to use.  It's important to lock this version number in so that you are always using the version of `github-pages` that matches with the version of `jekyll` you're using.
 
-Use `git add` and `git commit` to commit your changes to the `master` branch.  Then, rename the branch by running.
+As the `Gemfile` mentions, comment out the `gem "jekyll"` line and update the versions of all the gems in this file to match those found in the [Dependency Versions page](https://pages.github.com/versions/).  Then, run this to pull all the correct gem versions:
+
+```bash
+bundle update
+```
+
+You can preview the site by running
+
+```bash
+bundle exec jekyll serve
+```
+
+Use `git add` and `git commit` to commit your site to the `main` branch.  If the default branch is `master`, go ahead and commit to that branch, then rename it to `main by running:
 
 ```bash
 git branch -m main
 ```
-
-You can preview the site by running `jekyll serve`.  You may need to comment out the `github-pages` line in your Gemfile for this to work.
 
 For more information, check out the [GitHub Documentation](https://docs.github.com/en/github/working-with-github-pages/creating-a-github-pages-site-with-jekyll).
 
