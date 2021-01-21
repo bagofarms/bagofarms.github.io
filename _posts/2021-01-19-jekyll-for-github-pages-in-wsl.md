@@ -5,7 +5,7 @@ date:   2021-01-18 12:30:00 -0500
 tags:   development wsl windows
 ---
 
-When I wanted to start my blog up again, I knew I wanted to use Jekyll.  However, it had been a long time since I had set up a Jekyll site from scratch, and I ran into some roadblocks that were mostly caused by my outdated knowledge of Jekyll and GitHub Pages.  Here's the process I used to get this site up and running in January 2021 using Windows 10 1909 and WSL 2 running Ubuntu 20.04 LTS.  These instructions are adapted from Colin Westwater's tutorial
+When I wanted to start my blog up again, I knew I wanted to use Jekyll.  However, it had been a long time since I had set up a Jekyll site from scratch, and I ran into some roadblocks that were mostly caused by my outdated knowledge of Jekyll and GitHub Pages.  Here's the process I used to get this site up and running in January 2021 using Windows 10 1909 and WSL 2 running Ubuntu 20.04 LTS.  These instructions are adapted from [Colin Westwater's tutorial](https://www.vgemba.net/blog/Setup-Jekyll-WSL/).
 
 ## Checking GitHub's Compatibility
 
