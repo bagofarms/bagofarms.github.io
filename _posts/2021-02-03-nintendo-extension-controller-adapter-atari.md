@@ -2,7 +2,7 @@
 layout: post
 title:  "Creating a Nintendo Extension Controller Adapter for Atari and Commodore Computers, Part 1"
 date:   2021-02-03 15:00:00 -0500
-tags:   development wsl windows
+tags:   nintendo commodore controller game adapter
 ---
 
 I have a special place in my heart for games on the Atari 2600 and Commodore 64 systems, but the input methods leave something to be desired.  In the 80s, digital joysticks were the standard controller for home game consoles.  I suspect this is because arcade machines used joysticks, and many home consoles were attempting to bring the arcade experience into the living room.
