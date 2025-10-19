@@ -11,7 +11,7 @@ I'm exhibiting at Maker Faire 2025! Here's an overview of what I'm showing off a
 
 ## Vega 4x5 by Vegatype
 
-![Vega 4x5 camera]()
+![Vega 4x5 camera](/assets/img/vega-4x5/vega_4x5_front.jpg)
 
 This is a mostly 3D printed large format camera that captures images directly onto 4x5" photographic film or paper. It is also compatible with a wide variety of other film formats through the use of various different film holders and adapters. I've wanted a camera like this for a while, and 3D printing has opened the door for me to build it myself. If you'd like to read more about it, I've put together a [blog post on the Vega 4x5]({% post_url 2025-08-30-building-the-vega-4x5 %}).
 
@@ -35,7 +35,7 @@ I wanted to continue to use my Mamiya Press lenses with the [Lomograflok back](h
 
 ## Brancopan by Cameradactyl
 
-![Brancopan camera, with a blocky appearance, printed in purple, yellow, cyan, and black, sitting on a couch with a Mamiya Press 50mm lens attached to it]()
+![Brancopan camera, with a blocky appearance, printed in purple, yellow, cyan, and black, sitting on a couch with a Mamiya Press 50mm lens attached to it](/assets/img/brancopan_with_mamiya_press_50mm.JPG)
 
 The [Brancopan](https://www.cameradactyl.com/brancopan) is a panoramic camera that shoots 24x56mm images onto 35mm film. It uses lenses originally designed for the [Mamiya Press](https://camera-wiki.org/wiki/Mamiya_Press) camera system, and is fully 3D printed with the exception of some screws and one spring from a clicky pen. It even includes a film advance lever that automatically stops at the next frame!
 
@@ -50,7 +50,7 @@ Assembly took me approximately 20 hours of time over the span of a few weeks. Ca
 
 ## LigeroLG by SPRKPLG
 
-![LigeroLG camera, printed in grey and yellow, attached to a Lomograflok back, with a viewfinder and flash attached to the top, sitting on a table]()
+![LigeroLG camera, printed in grey and yellow, attached to a Lomograflok back, with a viewfinder and flash attached to the top, sitting on a table](/assets/img/ligero_lg.jpg)
 
 The [LigeroLG](https://sprkplg.com/product/ligerolg/) was the original reason I purchased the [Lomograflok back](https://shop.lomography.com/us/lomograflok-4-5-instant-back). It's really a glorified lens cone, but it has all the hardware for mounting a [Mamiya Press](https://camera-wiki.org/wiki/Mamiya_Press) lens, Lomograflok back, cable release, viewfinder, flash, and whatever other accessories you like. I like to use the [TTArtisan 21mm Viewfinder](https://ttartisan.store/products/viewfinder-28-21mm) and [Godox Lux Junior flash](https://amzn.to/4o8K3pP). In my opinion, it's the ultimate portable Instax Wide camera.
 
