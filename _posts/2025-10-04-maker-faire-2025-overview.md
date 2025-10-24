@@ -19,13 +19,15 @@ This is a mostly 3D printed large format camera that captures images directly on
 
 ![Black and white print of a charcoal grill sitting in the grass in front of two different styles of fence with some plants on the right side](/assets/img/vega-4x5/vega-4x5-ilford-direct-positive-fb-paper.JPG)
 
-## Mamiya Press Lens Board
+## Mamiya Press Lens Cone
 
-![Vega 4x5 rear standard with a custom lens board and a Mamiya Press 127mm lens attached. Front view.](/assets/img/vega-4x5/vega-mamiya-127mm-front.JPG)
+![Vega 4x5 rear standard with a custom lens cone and a Mamiya Press 127mm lens attached. Front view.](/assets/img/vega-4x5/vega-mamiya-127mm-front.JPG)
 ![Vega 4x5 rear standard with ground glass holder mounted. Rear view.](/assets/img/vega-4x5/vega-mamiya-focus-screen.JPG)
 ![Vega 4x5 rear standard with Lomograflok back mounted. Rear view.](/assets/img/vega-4x5/vega-mamiya-lomograflok-back.JPG)
 
 I wanted to continue to use my Mamiya Press lenses with the [Lomograflok back](https://shop.lomography.com/us/lomograflok-4-5-instant-back) and the Vega 4x5, so I designed a replacement for the entire bellows and front standard that accepts Mamiya Press lenses and positions them at the correct depth and shift for the Lomograflok back. I want to create another version that centers the lens and places it at the correct distance for a normal 4x5 focusing screen. That way, I can use them with Graflok-compatible 120 film backs.
+
+[Mamiya Press Vega 4x5 Lens Cone for Lomograflok on Printables](https://www.printables.com/model/1457288-vega-4x5-mamiya-press-lomograflok-lens-cone)
 
 ### Sample Photos
 
