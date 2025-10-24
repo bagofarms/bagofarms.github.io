@@ -92,14 +92,12 @@ To get this to work, I had to modify the forks to accept 1/4"-20 bolts on the bo
 * GroundGlassHolder-Normal Threaded (Or the heatset insert one if you want)
 * Any frame masks you want depending on what film you'll be using
 
-### From Vega 4x5 Arca Rail Mod
+### From [Arca Rail Mod for Vega 4x5](https://www.printables.com/model/1457320-arca-swiss-rail-mod-for-vega-4x5)
 
 * Front Fork 1_4-20
 * Rear Fork 1_4-20
 * 2x Knob 1_4-20
 * 2x Rail Spacer
-* (Optional) Rear Standard with Mounting Holes (Instead of the one from Vega 4x5)
-* (Optional) Bellows Form (If you're making your own bellows, choose the closest length that is more than the focal length of your lens.)
 
 ### Additional Hardware
 
