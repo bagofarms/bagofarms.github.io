@@ -96,8 +96,8 @@ To get this to work, I had to modify the forks to accept 1/4"-20 bolts on the bo
 
 * Front Fork 1_4-20
 * Rear Fork 1_4-20
-* 2x Knob 1_4-20
-* 2x Rail Spacer
+* 2x Bottom Fork Knob 1_4-20
+* 2x Rail Clamp Spacer
 
 ### Additional Hardware
 
